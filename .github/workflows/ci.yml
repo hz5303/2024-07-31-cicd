@@ -1,24 +1,4 @@
-Skip to content
-Navigation Menu
-ariostas-talks
-/
-2024-07-31-cicd
 
-Type / to search
-Code
-Issues
-Pull requests
-1
-Actions
-Projects
-Security
-Insights
-Deploy Slides
-Initial commit #1
-Jobs
-Run details
-Workflow file for this run
-.github/workflows/slides.yml at 783d4f5
 name: Deploy Slides
 
 on: push
