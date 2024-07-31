@@ -37,8 +37,3 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
 
-<<<<<<< HEAD
->>>>>>> 82fd1420d743963f36b8934d60852bbe6b6ab62f
-=======
- 
->>>>>>> 8029039fb79a30c3797f29416341b3997ab4999b
